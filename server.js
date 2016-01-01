@@ -36,6 +36,8 @@ var server = http.createServer(function(req, res) {
 
   } else {
     res.writeHead(400, {'Content-Type': 'application/json'});
+    result.natural = null;
+    result.unix = null;
   }
 
   res.end(JSON.stringify(result));
