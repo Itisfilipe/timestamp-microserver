@@ -1,0 +1,19 @@
+{
+  "name": "timestamp-microserver",
+  "version": "1.0.0",
+  "description": "timestamp microserver created for freecodecamp.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfilipe/timestamp-microserver.git"
+  },
+  "author": "Filipe T. Amaral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xfilipe/timestamp-microserver/issues"
+  },
+  "homepage": "https://github.com/xfilipe/timestamp-microserver#readme"
+}
